@@ -1,0 +1,2 @@
+# Golqma-zadacha
+Golqma zadacha
